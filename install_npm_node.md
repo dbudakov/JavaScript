@@ -1,7 +1,7 @@
 
 Установка `nodejs` и `npm`(nodejs packet manager) через  `n`
 ```sh
-yum install git -y
+yum install git make -y
 cd /opt/
 git clone https://github.com/tj/n
 cd n/
